@@ -25,18 +25,6 @@ To use the Dice App:
 2. Observe the animation as the dice rotates.
 3. The number displayed after rotation represents the result of the dice roll.
 
-## Demo
-[Add a link to your demo or gif/video demonstrating the functionality of the app.]
-
-## Screenshots
-[Add screenshots of your application in action.]
-
-## Contribution
-Contributions are welcome! If you'd like to improve the Dice App, feel free to fork the repository and submit a pull request.
-
-## License
-[Include your project's license here. For example, you can use MIT License.]
-
 ## Contact
 If you have any questions or suggestions, feel free to contact the project maintainer:
 - [Your Name](mailto:pindoriyabhavik@gmail.com)
