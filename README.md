@@ -24,7 +24,3 @@ To use the Dice App:
 1. Tap on the dice displayed on the screen.
 2. Observe the animation as the dice rotates.
 3. The number displayed after rotation represents the result of the dice roll.
-
-## Contact
-If you have any questions or suggestions, feel free to contact the project maintainer:
-- [Your Name](mailto:pindoriyabhavik@gmail.com)
